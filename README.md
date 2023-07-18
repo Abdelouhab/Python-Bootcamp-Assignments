@@ -7,7 +7,7 @@ The course covers a wide range of topics including:
 - Intermediate Python: Decorators, Generators, Testing, Debugging, Modules and Packages.
 - Advanced Python: Regular Expressions, Working with Files, OS module, datetime module.
 - Object-Oriented Programming: Attributes and Class Keyword, Class Object Attributes and Methods, Inheritance and Polymorphism, Special (Magic/Dunder) Methods.
-- Errors and Exception Handling: try, except, else and finally blocks, `raise` keyword, built-in exceptions.
+- Errors and Exception Handling: try, except, else and finally blocks, raise keyword, built-in exceptions.
 - Python Decorators and Generators.
 
 ## Assignments
