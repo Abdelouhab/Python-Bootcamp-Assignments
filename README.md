@@ -20,7 +20,7 @@ Feel free to download, fork, or clone this repository for your own learning. To 
 
 ## Contributing
 
-As this repository is for my personal assignments, I'm not accepting contributions. However, if you find any errors or have any questions, feel free to create an issue. 
+As this repository is for my personal assignments, however if you find any errors or have any questions, feel free to create an issue. 
 
 ## Contact
 
